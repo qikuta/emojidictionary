@@ -14,6 +14,7 @@
 		E2BFFEEF2523A272009CFBEB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E2BFFEED2523A272009CFBEB /* Main.storyboard */; };
 		E2BFFEF12523A273009CFBEB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E2BFFEF02523A273009CFBEB /* Assets.xcassets */; };
 		E2BFFEF42523A273009CFBEB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E2BFFEF22523A273009CFBEB /* LaunchScreen.storyboard */; };
+		E2DEDE302524CB800068447F /* Emoji.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2DEDE2F2524CB800068447F /* Emoji.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		E2BFFEF02523A273009CFBEB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E2BFFEF32523A273009CFBEB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E2BFFEF52523A273009CFBEB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E2DEDE2F2524CB800068447F /* Emoji.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Emoji.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				E2BFFEEB2523A272009CFBEB /* ViewController.swift */,
 				E2BFFEED2523A272009CFBEB /* Main.storyboard */,
 				E24A238A2523C2740090259F /* DefinitionViewController.swift */,
+				E2DEDE2F2524CB800068447F /* Emoji.swift */,
 				E2BFFEF02523A273009CFBEB /* Assets.xcassets */,
 				E2BFFEF22523A273009CFBEB /* LaunchScreen.storyboard */,
 				E2BFFEF52523A273009CFBEB /* Info.plist */,
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E2DEDE302524CB800068447F /* Emoji.swift in Sources */,
 				E2BFFEEC2523A272009CFBEB /* ViewController.swift in Sources */,
 				E24A238B2523C2740090259F /* DefinitionViewController.swift in Sources */,
 				E2BFFEE82523A272009CFBEB /* AppDelegate.swift in Sources */,
